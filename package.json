@@ -1,0 +1,19 @@
+{
+  "name": "challenge2",
+  "version": "1.0.0",
+  "description": "Challenge2",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbokyes/202301-W1CH2-JoaquinBezanilla-RocioRicciardiello.git"
+  },
+  "author": "Joaquin y Rocio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbokyes/202301-W1CH2-JoaquinBezanilla-RocioRicciardiello/issues"
+  },
+  "homepage": "https://github.com/jbokyes/202301-W1CH2-JoaquinBezanilla-RocioRicciardiello#readme"
+}
